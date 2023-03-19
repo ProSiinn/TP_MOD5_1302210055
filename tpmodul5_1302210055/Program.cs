@@ -10,17 +10,23 @@ namespace tpmodul5_1302210055
     {
         static void Main(string[] args)
         {
-            string PanggilanNama = "Rafi";
-            HaloGeneric.SapaUser(PanggilanNama);
+            DataGeneric<string> dataString = new DataGeneric<string>("1302210055");
+            dataString.PrintData();
         }
     }
 
-    public class HaloGeneric
+    class DataGeneric<T>
     {
-        public static void SapaUser<T>(T input)
-        {
-            Console.WriteLine("Halo user " + input);
+        private T data;
 
+        public DataGeneric(T data)
+        {
+            this.data = data;
+        }
+
+        public void PrintData()
+        {
+            Console.WriteLine("Data yang tersimpan adalah: " + data);
         }
     }
 }
