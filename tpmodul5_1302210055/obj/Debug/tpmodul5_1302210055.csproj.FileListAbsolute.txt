@@ -1,0 +1,8 @@
+D:\Praktek Smstr 4\KPL\tpmodul5_1302210055\tpmodul5_1302210055\bin\Debug\tpmodul5_1302210055.exe.config
+D:\Praktek Smstr 4\KPL\tpmodul5_1302210055\tpmodul5_1302210055\bin\Debug\tpmodul5_1302210055.exe
+D:\Praktek Smstr 4\KPL\tpmodul5_1302210055\tpmodul5_1302210055\bin\Debug\tpmodul5_1302210055.pdb
+D:\Praktek Smstr 4\KPL\tpmodul5_1302210055\tpmodul5_1302210055\obj\Debug\tpmodul5_1302210055.csproj.AssemblyReference.cache
+D:\Praktek Smstr 4\KPL\tpmodul5_1302210055\tpmodul5_1302210055\obj\Debug\tpmodul5_1302210055.csproj.SuggestedBindingRedirects.cache
+D:\Praktek Smstr 4\KPL\tpmodul5_1302210055\tpmodul5_1302210055\obj\Debug\tpmodul5_1302210055.csproj.CoreCompileInputs.cache
+D:\Praktek Smstr 4\KPL\tpmodul5_1302210055\tpmodul5_1302210055\obj\Debug\tpmodul5_1302210055.exe
+D:\Praktek Smstr 4\KPL\tpmodul5_1302210055\tpmodul5_1302210055\obj\Debug\tpmodul5_1302210055.pdb
